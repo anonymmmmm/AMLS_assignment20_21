@@ -18,6 +18,8 @@ In B1 folder, B1.py is the CNN model selected finally.
 
 In B2 folder, B2.py is the CNN model selected finally.
 
+main.py can complete four tasks at once. A1, A2, B1 and B2_withoutmain.py present the best models and they can complete the four tasks individually.
+
 Libraries Needed:
 
 cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras, joblib
