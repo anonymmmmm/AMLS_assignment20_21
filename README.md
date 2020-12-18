@@ -1,7 +1,5 @@
 # AMLS_assignment20_21
 
-Assignment for AMLS.
-
 There are four classification problems involved. A1 and A2 are binary classification problems. B1 and B2 are multiclass classification problems. 
 
 A1: Gender Detection
@@ -26,4 +24,4 @@ cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras, joblib
 
 Also remember to download ‘haarcascade_frontalface_alt.xml’ and ‘haarcascade_mcs_mouth.xml’ in this file.
 
-In case the main function runs an error (though it should be impossible), try to change the file name.
+In case the main function runs an error (though it should be impossible), try to change the file name or delete the files produced during previous operation.
