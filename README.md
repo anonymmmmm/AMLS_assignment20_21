@@ -12,9 +12,9 @@ A3: Face Shape Recognition
 
 A4: Eye Color Recognition
 
-In A1 folder, A1.py is the logistic regression model selected finally. A1_random_forest is the random forest model used for classification, A1_SVM is the SVM model used for classification. ROC_A1.py is used for plotting ROC curves and calculating the accuracy, recall, precision and F1 score of logistic regressio, and comparing them.
+In A1 folder, A1.py is the logistic regression model selected finally. A1_random_forest.py is the random forest model used for classification, A1_SVM.py is the SVM model used for classification. ROC_A1.py is used for plotting ROC curves and calculating the accuracy, recall, precision and F1 score of logistic regressio, and comparing them.
 
-In A2 folder, A2.py is the SVM model seleted finally. A2_random_forest is the random forest model used for classification, A2_logistic_regression is the LR model used for classification. ROC_A2.py is used for plotting ROC curves and calculating the accuracy, recall, precision and F1 score, and comparing them.
+In A2 folder, A2.py is the SVM model seleted finally. A2_random_forest.py is the random forest model used for classification, A2_logistic_regression.py is the LR model used for classification. ROC_A2.py is used for plotting ROC curves and calculating the accuracy, recall, precision and F1 score, and comparing them.
 
 In B1 folder, B1.py is the CNN model selected finally.
 
