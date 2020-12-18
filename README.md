@@ -22,7 +22,7 @@ In B2 folder, B2.py is the CNN model selected finally.
 
 Libraries Needed:
 
-cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras
+cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras, joblib
 
 Also remember to download ‘haarcascade_frontalface_alt.xml’ and ‘haarcascade_mcs_mouth.xml’ in this file.
 
