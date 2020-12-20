@@ -1,5 +1,7 @@
 # AMLS_assignment20_21
 
+Student Number: 20158088
+
 There are four classification problems involved. A1 and A2 are binary classification problems. B1 and B2 are multiclass classification problems. 
 
 A1: Gender Detection
@@ -22,7 +24,7 @@ main.py can complete four tasks at once. A1, A2, B1 and B2_withoutmain.py presen
 
 Libraries Needed:
 
-cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras, joblib
+cv2, numpy, skimage, sklearn, matplotlib, pandas, tensorflow, keras, joblib, shutil, os
 
 Also remember to download ‘haarcascade_frontalface_alt.xml’ and ‘haarcascade_mcs_mouth.xml’ in this file.
 
